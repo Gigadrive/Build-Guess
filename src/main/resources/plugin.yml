@@ -1,0 +1,14 @@
+name: BuildAndGuess
+author: Zeryther
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.buildandguess.BuildAndGuess
+depend: [ChestAPI, HolographicDisplays]
+
+commands:
+  setbuildlocation:
+    description: setbuildlocation
+  setspawn:
+    description: setspawn
+  start:
+    description: start
